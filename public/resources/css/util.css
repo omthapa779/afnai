@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* widths */
+.w_100{
+    width: 100%;
+}
+
+/* height */
+.h_fc{
+    height: fit-content;
+}
+.h_10vh{
+    height: 10vh;
+}
